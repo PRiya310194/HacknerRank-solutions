@@ -1,1 +1,1 @@
-Priya kumari
+HackerRank solutions
